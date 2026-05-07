@@ -1,4 +1,4 @@
-# 二十三、WebAuthn 现代身份认证
+# 二十二、WebAuthn 现代身份认证
 
 WebAuthn（Web Authentication API）是 W3C 和 FIDO 联盟制定的**无密码认证标准**，被 Apple、Google、Microsoft 共同推动。它的核心思想是：用设备内置的生物识别（指纹/面容）或硬件安全密钥替代密码，私钥永不离开用户设备，从根本上消灭密码泄露和钓鱼攻击。
 

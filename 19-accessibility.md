@@ -1,4 +1,4 @@
-# 二十、Web 无障碍 Accessibility A11y
+# 十九、Web 无障碍 Accessibility A11y
 
 Web 无障碍（A11y）不是"给盲人用的"，而是让所有用户——包括视觉/听觉/运动/认知障碍用户——都能平等访问 Web 内容。在欧盟和美国（Section 508/ADA），无障碍合规是法定义务。技术上，A11y 涉及语义 HTML、ARIA 标注、焦点管理、辅助技术兼容等多个维度。
 
